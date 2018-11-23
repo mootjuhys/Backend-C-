@@ -1,3 +1,6 @@
+
+************************************OPDRACHT1.1***********************************************
+
 using System;
 
 namespace ConsoleApp7
@@ -15,6 +18,30 @@ namespace ConsoleApp7
             Console.WriteLine("Adress: 9649DA Doplhia");
             Console.WriteLine("Leeftijd: 16");
             Console.ReadLine();
+        }
+    }
+}
+
+
+************************************OPDRACHT1.2************************************************
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("************");
+            Console.WriteLine("**MOHAMMED**");
+            Console.WriteLine("************");
+            Console.ReadKey();
         }
     }
 }
